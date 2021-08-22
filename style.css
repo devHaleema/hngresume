@@ -102,7 +102,7 @@ img {
 
   .name-heading {
     position: absolute;
-    left: 30%;
+    left: 20%;
     margin-top: 130px;
     font-weight: bold;
   }
@@ -110,7 +110,7 @@ img {
   div.contact {
     width: auto;
     position: absolute;
-    left: 30%;
+    left: 20%;
     margin-top: 150px;
   }
 }
